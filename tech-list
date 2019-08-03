@@ -1,4 +1,10 @@
-(REACT-REDUX-WEB3 || REACT-HOOKS-WEB3) && VUE-WEB3(stretch goals)
+webdev-libraries {
+    (REACT-REDUX-WEB3 || REACT-HOOKS-WEB3) && VUE-WEB3(stretch goals)
+}
 
-ipfs
-ethereum
+web3-libraries {
+    ipfs
+    Universal-Logins
+}
+    
+
